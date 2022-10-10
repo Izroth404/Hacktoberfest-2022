@@ -1,7 +1,7 @@
 # Explore Open Source
 # Hacktoberfest 2022
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fattackontitan.fandom.com%2Fwiki%2FSurvey_Corps&psig=AOvVaw0bxe5R3h2zbzfXZgKAlLRK&ust=1665499867460000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJC089r01foCFQAAAAAdAAAAABAF" />
+  <img src="https://static.wikia.nocookie.net/shingekinokyojin/images/a/a7/Survey_Corps_Logo.png/revision/latest?cb=20140307090257" />
 </p>
 
 ## Welcome to the world of Open Source
